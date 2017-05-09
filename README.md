@@ -1,0 +1,2 @@
+# CodeSmells
+Refactoring example
