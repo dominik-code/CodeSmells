@@ -22,6 +22,11 @@ class Customer {
     public String getName (){
         return name;
     };
+    
+    /**
+     * string of all statments
+     * @return string
+     */
     public String statement() {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
